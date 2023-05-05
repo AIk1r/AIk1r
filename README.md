@@ -10,7 +10,7 @@
 
   <br>
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AIk1r&theme=dark)](https://github.com/AIk1r/github-readme-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AIk1r&theme=tokyonight" alt="mystreak"/>
   
   ![](https://komarev.com/ghpvc/?username=AIk1r)
   
