@@ -14,11 +14,8 @@
   
   ![](https://komarev.com/ghpvc/?username=AIk1r)
   
-  <a href="your-linkedin-URL">
+  <a href="https://t.me/Merccer">
     <img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>  
   <br>
 </div>
