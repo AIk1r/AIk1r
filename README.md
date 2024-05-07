@@ -10,9 +10,6 @@
 
   <br>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AIk1r&theme=tokyonight" alt="mystreak"/>
-  
-  ![](https://komarev.com/ghpvc/?username=AIk1r)
   
   <a href="https://t.me/Merccer">
     <img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
